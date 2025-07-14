@@ -19,7 +19,7 @@ Explore My Portfolio Showcasing Various Projects Leveraging The Social Media And
 #### (NEW SESSION WEB ADDED)
   
 <p align="center">
-<a href="https://sbn-md-pair.zone.id/"><img title="X BOT" src="https://img.shields.io/badge/Pair_Code-blue?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="https://sbn-md-pair.zone.id/"><img title="X BOT" src="https://img.shields.io/badge/Pair-Code-blue?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 
 
