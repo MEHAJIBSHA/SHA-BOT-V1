@@ -1,27 +1,30 @@
-  ### (SHA BOT V1)
+### (SHA BOT V1)
 
+Explore My Portfolio Showcasing Various Projects Leveraging The Social Media And Social Media Bot Development. From Automating Tasks To Enhancing Group Inte
+
+<div align="center"> 
+  <a href="https://github.com/MEHAJIBSHA"> 
+    <img src="https://github.com/mruniquehacker/Knightbot-MD/blob/main/assets/bot_image.jpg" alt="Knight Bot" height="300"> 
+  </a> 
+</div>
 <p align="center">
-<img src="https://d.top4top.io/p_1837luigd0.gif" alt="GIF" width="128" height="128"/>
+  <a href="https://github.com/MEHAJIBSHA/SHA-BOT-V1/fork"><img title="Release" src="https://img.shields.io/badge/Fork_And-Star_Repo%20-cyan.svg?style=for-the-badge&logo=aqua" /></a>
 </p>
 <p align="center">
-<a href="#"><img title="X BOT" src="https://img.shields.io/badge/Dark-Bot-blue?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
-</p>
- <a href="https://github.com/MEHAJIBSHA/SHA-BOT-V1/fork"><img title="SHA-BOT-V1" src="https://img.shields.io/badge/FORK-SHABAN MD V1-h?color=008000&style=for-the-badge&logo=github"></a>
-<p align="center">
-<a href="https://github.com/MEHAJIBSHA"><img title="Author" src="https://img.shields.io/badge/Author-MrDevils-orange.svg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/MRSHABAN40/SHABAN-MD-V6"><img title="Author" src="https://img.shields.io/badge/Author-MrDevils-orange.svg?style=for-the-badge&logo=github"></a>
 </p>
 
 
- 
 
-#### NEW SESSION WEB ADDED
+#### (NEW SESSION WEB ADDED)
   
-  <a href='https://sbn-md-pair.zone.id' target="_blank">
-    <img src='https://img.shields.io/badge/PAIR_CODE-FF0000?style=for-the-badge&logo=matrix&logoColor=white&labelColor=000000'/>
-  </a></br>
+<p align="center">
+<a href="https://sbn-md-pair.zone.id/"><img title="X BOT" src="https://img.shields.io/badge/Pair_Code-blue?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+</p>
 
 
-### DEPLOYMENT
+
+### (DEPLOYMENT)
 
 <div align="center">
   <table>
@@ -41,6 +44,3 @@
 </div>
 
 -------------
-
-
-
